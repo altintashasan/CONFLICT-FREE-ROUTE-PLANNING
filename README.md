@@ -1,6 +1,6 @@
 # CONFLICT-FREE-ROUTE-PLANNING
 
-- [CONFLICT-FREE-ROUTE-PLANNING](#conflict-free-route-planning)
+*TABLE OF CONTENTS*
 - [LIVE DEMO](#live-demo)
 - [Problem:](#problem)
 - [Project Goal:](#project-goal)
@@ -10,7 +10,6 @@
 - [The situations that they are not regarded:](#the-situations-that-they-are-not-regarded)
 - [How the Project Works?](#how-the-project-works)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # LIVE DEMO
 
