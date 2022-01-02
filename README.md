@@ -1,5 +1,17 @@
 # CONFLICT-FREE-ROUTE-PLANNING
 
+- [CONFLICT-FREE-ROUTE-PLANNING](#conflict-free-route-planning)
+- [LIVE DEMO](#live-demo)
+- [Problem:](#problem)
+- [Project Goal:](#project-goal)
+- [Constraints](#constraints)
+- [Algorithms:](#algorithms)
+- [Tools:](#tools)
+- [The situations that they are not regarded:](#the-situations-that-they-are-not-regarded)
+- [How the Project Works?](#how-the-project-works)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # LIVE DEMO
 
 You can find how the algoritm works here --> [HIT ME - 1](https://youtu.be/D676NAfTBGo) [HIT ME - 2](https://youtu.be/HPg3c6FQCkY)
